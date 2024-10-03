@@ -1,0 +1,51 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36eeaa",
+        "name": "Content Writing",
+        "details": "We help you to make your consumers realize that you are a man of your words, so they keep coming back to you.",
+        "images": "https://i.ibb.co.com/jGpXVRq/Content-writing.png",
+        "url": "https://backlinko.com/hub/content/writing",
+        "rating": 5
+       
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb9",
+        "name": "Digital Marketing",
+        "details": "The presence of businesses online has become a necessity as most of your relevant audience is there.",
+        "images": "https://i.ibb.co.com/2qtKWnC/digital.jpg",
+        "url": "https://en.wikipedia.org/wiki/Digital_marketing",
+        "rating": 4
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7c",
+        "name": "Web Development",
+        "details": "We have a committed team of web developers ready to work with you to create an engaging and efficient website for your business.",
+        "images": "https://i.ibb.co.com/y6QTWC2/Web-Development-1.jpg",
+        "url": "https://wbdevpartners.com/",
+        "rating": 3
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee88",
+        "name": "SEO",
+        "details": "We’re here to put words to your ideas and develop them for the next stage of search engine optimisation, or SEO.",
+        "images": "https://i.ibb.co.com/4fL9r87/1-SEO.webp",
+        "url": "https://searchengineland.com/guide/what-is-seo",
+        "rating": 4
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7a",
+        "name": "Creative Writing",
+        "details": "Creative writing is one of those talents that you can always improve at, but that you always stink at when you first start.",
+        "images": "https://i.ibb.co.com/PmTF2yP/creative.jpg",
+        "url": "https://study.com/academy/lesson/what-is-creative-writing-definition-types-examples.html",
+        "rating": 5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8c",
+        "name": "Research",
+        "details": "By having an international presence and in-depth expertise, we have gained leadership in the research industry.",
+        "images": "https://i.ibb.co.com/6YXK7rh/research.jpg",
+        "url": "https://www.itresearchonline.com/",
+        "rating": 4
+    }
+]
